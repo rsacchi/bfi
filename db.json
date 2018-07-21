@@ -1,5 +1,4 @@
-{
-  "cities": [
+[
     {
       "name": "London",
       "sunrise":"7:27:02 AM",
@@ -17,6 +16,5 @@
       "sunrise":"6:16:02 AM",
       "sunset":"6:05:55 PM",
       "day_length":"11:27:53"
-    }
-  ]
-}
+  }
+]
